@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Adhitiani
 - 🌱 I’m a student at Launch School, an online school for software engineers
+- :computer: Currently I'm learning Javascript
 - 📫 How to reach me adhitiani@gmail.com
 
 <!---
